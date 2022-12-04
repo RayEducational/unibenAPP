@@ -2,3 +2,4 @@ My name is ekemini
 Mike is good
 Samson is a Devops
 Good job
+type
