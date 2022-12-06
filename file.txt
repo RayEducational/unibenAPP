@@ -4,4 +4,8 @@ Samson is a Devops
 Good job
 type
 Tasks for the recent recruited employess include building working documents and draft development.
+<<<<<<< HEAD
 Josh update
+=======
+hello i am here
+>>>>>>> nabenasbranch
