@@ -19,3 +19,4 @@ well done
 >>>>>>> master
 new change ssh
 added line 21
+say new messges now
